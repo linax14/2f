@@ -1,0 +1,9 @@
+:root[data-theme='noir'] {
+    --background-color: #1e1e1e;
+    --font-color: #fff;
+}
+
+body {
+    background-color: var(--background-color);
+    color: var(--font-color);
+}
